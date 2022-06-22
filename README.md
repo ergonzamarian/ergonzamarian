@@ -26,6 +26,6 @@
 </div>
 
 <div>
-    ![Snake animation](https://github.com/ergonzamarian/ergonzamarian/blob/output/github-contribution-grid-snake.svg)
-    <img align="right" height="150" width="180" src="https://media1.giphy.com/media/gUnRTJ0zqHJRe/200w.webp?cid=ecf05e47q9l4o524so9tgiqg8qe9cojmuci8rk1nvzofjrdq&rid=200w.webp&ct=g"></img>
+![Snake animation](https://github.com/ergonzamarian/ergonzamarian/blob/output/github-contribution-grid-snake.svg)
+<img align="right" height="150" width="180" src="https://media1.giphy.com/media/gUnRTJ0zqHJRe/200w.webp?cid=ecf05e47q9l4o524so9tgiqg8qe9cojmuci8rk1nvzofjrdq&rid=200w.webp&ct=g"></img>
 </div>
