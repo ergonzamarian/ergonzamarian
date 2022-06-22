@@ -8,7 +8,7 @@
   <a href="https://github.com/ergonzamarian/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ergonzamarian&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergonzamarian&layout=compact&langs_count=16&theme=darcula"/>
-  <img height="180" width="100" src="https://media1.giphy.com/media/gUnRTJ0zqHJRe/200w.webp?cid=ecf05e47q9l4o524so9tgiqg8qe9cojmuci8rk1nvzofjrdq&rid=200w.webp&ct=g"></img>
+  <img height="100" width="100" src="https://media1.giphy.com/media/gUnRTJ0zqHJRe/200w.webp?cid=ecf05e47q9l4o524so9tgiqg8qe9cojmuci8rk1nvzofjrdq&rid=200w.webp&ct=g"></img>
 </div>
 
 <div style="display: inline_block"><br>
