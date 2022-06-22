@@ -20,6 +20,6 @@
   <img align="center" alt="ergon-bootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="ergon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ergon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ergon-CSS" height="30" width="40" src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif">
+  <img align="center" alt="ergon-CSS" height="100" width="100" src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif">
 </div>
 
