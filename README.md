@@ -23,6 +23,6 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img src="https://giphy.com/embed/xonOzxf2M8hNu"></iframe>
+  <img src="https://giphy.com/embed/xonOzxf2M8hNu"></img>
 </div>
 
