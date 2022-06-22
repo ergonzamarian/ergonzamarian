@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/ergonzamarian/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ergonzamarian&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergonzamarian&layout=compact&langs_count=16&theme=darcula" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergonzamarian&amp;layout=compact&amp;langs_count=7&amp;theme=darcula" style="max-width: 100%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergonzamarian&layout=compact&langs_count=16&theme=darcula"/>
     
 </div>
 
