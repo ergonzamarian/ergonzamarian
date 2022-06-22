@@ -21,7 +21,4 @@
   <img align="center" alt="ergon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ergon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-<div style="display: inline_block"><br>
-  <h1>123</h1>
-  <img align="right" alt="ergon-gif" src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif">
-</div>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/xonOzxf2M8hNu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/xonOzxf2M8hNu">via GIPHY</a></p>
