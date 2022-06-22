@@ -28,7 +28,7 @@
 	border-radius: 10px;
 	}
 </style>
-  <img align="center" height="150em" width="150em" src="https://media1.giphy.com/media/gUnRTJ0zqHJRe/200w.webp?cid=ecf05e47q9l4o524so9tgiqg8qe9cojmuci8rk1nvzofjrdq&rid=200w.webp&ct=g"></img>
+  <img align="center" #box height="150em" width="150em" src="https://media1.giphy.com/media/gUnRTJ0zqHJRe/200w.webp?cid=ecf05e47q9l4o524so9tgiqg8qe9cojmuci8rk1nvzofjrdq&rid=200w.webp&ct=g"></img>
 </div>
 
 
