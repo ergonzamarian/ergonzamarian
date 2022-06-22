@@ -22,6 +22,6 @@
   <img align="center" alt="ergon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <div>
-  <img src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif"></img>
+  <img src="https://media1.giphy.com/media/gUnRTJ0zqHJRe/200w.webp?cid=ecf05e47q9l4o524so9tgiqg8qe9cojmuci8rk1nvzofjrdq&rid=200w.webp&ct=g"></img>
 </div>
 
