@@ -23,5 +23,6 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="right" alt="ergon-gif" src="https://media.giphy.com/media/ah7KwjMNJlhtK/giphy.gif">
+  <h1>Gif</h1>
+  <img align="right" alt="ergon-gif" src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif">
 </div>
