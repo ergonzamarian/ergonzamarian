@@ -20,14 +20,6 @@
   <img align="center" alt="ergon-bootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="ergon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ergon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <style type="text/css">
-#box{
-	width:300px;
-	height:100px;
-	background-color:#666;
-	border-radius: 10px;
-	}
-</style>
   <img align="center" #box height="150em" width="150em" src="https://media1.giphy.com/media/gUnRTJ0zqHJRe/200w.webp?cid=ecf05e47q9l4o524so9tgiqg8qe9cojmuci8rk1nvzofjrdq&rid=200w.webp&ct=g"></img>
 </div>
 
