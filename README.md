@@ -20,5 +20,6 @@
   <img align="center" alt="ergon-bootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="ergon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ergon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <h1>https://images-ext-2.discordapp.net/external/j3xXtYm6LgopZBuwKsM9NgySDEf98Wcu-_7Hea9O9Sk/%3Fcid%3D73b8f7b1ed26e08e3aeb744cd5f81e62b6fe4b4bdf154e58%26rid%3Dgiphy.mp4%26ct%3Dg/https/media1.giphy.com/media/gUnRTJ0zqHJRe/giphy.mp4</h1>
 </div>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/xonOzxf2M8hNu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/xonOzxf2M8hNu">via GIPHY</a></p>
+
