@@ -23,6 +23,6 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <iframe src="https://giphy.com/embed/xonOzxf2M8hNu" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xonOzxf2M8hNu">via GIPHY</a></p>
+  <iframe src="https://giphy.com/embed/xonOzxf2M8hNu"></iframe>
 </div>
 
