@@ -22,6 +22,6 @@
   <img align="center" alt="ergon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <div>
-  <img src="https://images-ext-2.discordapp.net/external/j3xXtYm6LgopZBuwKsM9NgySDEf98Wcu-_7Hea9O9Sk/%3Fcid%3D73b8f7b1ed26e08e3aeb744cd5f81e62b6fe4b4bdf154e58%26rid%3Dgiphy.mp4%26ct%3Dg/https/media1.giphy.com/media/gUnRTJ0zqHJRe/giphy.mp4"></img>
+  <img src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif"></img>
 </div>
 
