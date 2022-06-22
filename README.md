@@ -8,6 +8,7 @@
   <a href="https://github.com/ergonzamarian/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ergonzamarian&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergonzamarian&layout=compact&langs_count=16&theme=darcula"/>
+  <img align="right" #box height="150em" width="150em" src="https://media1.giphy.com/media/gUnRTJ0zqHJRe/200w.webp?cid=ecf05e47q9l4o524so9tgiqg8qe9cojmuci8rk1nvzofjrdq&rid=200w.webp&ct=g"></img>
 </div>
 
 <div style="display: inline_block"><br>
@@ -20,7 +21,6 @@
   <img align="center" alt="ergon-bootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="ergon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ergon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" #box height="150em" width="150em" src="https://media1.giphy.com/media/gUnRTJ0zqHJRe/200w.webp?cid=ecf05e47q9l4o524so9tgiqg8qe9cojmuci8rk1nvzofjrdq&rid=200w.webp&ct=g"></img>
 </div>
 
 ##
