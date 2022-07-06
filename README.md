@@ -6,9 +6,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergonzamarian&layout=compact&langs_count=16&theme=darcula" style="max-width: 100%;">
     
 </div>
-
-<div style="display: inline_block"><br>
-  *Technologies I have worked on or am studying 👨‍💻 ⬇*
+  
+<div>*Technologies I have worked on or am studying 👨‍💻 ⬇*</div>
+<div style="display: inline_block"><
   <img align="center" alt="ergon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="ergon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="ergon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
