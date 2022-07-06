@@ -8,7 +8,7 @@
 </div>
   
 ### 👨‍💻⬇ Technologies I have worked on or am studying 
-<div style="display: inline_block"><
+<div style="display: inline_block">
   <img align="center" alt="ergon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="ergon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="ergon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
