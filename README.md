@@ -1,12 +1,19 @@
-### Hi there 👋
+### ``` Olá, Seja Bem Vindo(a) ao meu perfil 👋😄```
+
+___
   
 <div align="center">
   <a href="https://github.com/ergonzamarian/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ergonzamarian&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergonzamarian&layout=compact&langs_count=16&theme=darcula" style="max-width: 100%;">
+  <table>
+    <tr>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ergonzamarian&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/></td>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergonzamarian&layout=compact&langs_count=16&theme=darcula" style="max-width: 100%;"></td>
+    </tr>
+  </table>
 </div>
-  
+
 ____
+
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="ergon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
