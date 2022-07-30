@@ -1,4 +1,6 @@
-### ``` Olá, Seja Bem Vindo(a) ao meu perfil 👋😄```
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=20&duration=5000&color=FFD700&center=true&width=600&height=40&lines=Ol%C3%A1%2C+Seja+Bem+Vindo(a)++ao+meu+perfil+%F0%9F%91%8B%F0%9F%98%84;Sou+formado+em+Engenharia+da+Computa%C3%A7%C3%A3o+%E2%9A%99%EF%B8%8F+%F0%9F%A7%91%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;E+sou+um+eterno+estudante+de+Tecnologia++%F0%9F%9B%B8" alt="Typing SVG" /></a>
+</div>
 
 ___
   
@@ -29,9 +31,9 @@ ____
 </div>
   
 ____
-
   
 <div align="center">
   <a href = "mailto:ergonlima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ergonzamarian" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/ergonzamarian" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/ergonzamarian/"><img alt="se não aparecer a imagem basta dar um F5" title="Visitas Perfil GitHub" src="https://github-contador-visitas.herokuapp.com/"/></a>
 </div>
