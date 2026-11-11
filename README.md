@@ -6,9 +6,6 @@ ___
   
 <div align="center">
   <a href="https://github.com/ergonzamarian/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ergonzamarian&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/></td>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergonzamarian&layout=compact&langs_count=16&theme=darcula" style="max-width: 100%;"></td>
-
 </div>
 
 ____
